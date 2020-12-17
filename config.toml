@@ -1,4 +1,4 @@
-baseURL = "https://yzwdroid.github.io"
+baseURL = "/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
