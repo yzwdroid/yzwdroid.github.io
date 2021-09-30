@@ -2,29 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>test on yzwdroid</title>
-    <link>https://zyang.ca/tags/test/</link>
+    <link>https://yzwdroid.github.io/tags/test/</link>
     <description>Recent content in test on yzwdroid</description>
-    <image>
-      <url>https://zyang.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://zyang.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 18 Mar 2018 12:13:32 +0530</lastBuildDate><atom:link href="https://zyang.ca/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Mar 2018 12:13:32 +0530</lastBuildDate><atom:link href="https://yzwdroid.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Math Type Setting</title>
-      <link>https://zyang.ca/posts/post-3/</link>
+      <link>https://yzwdroid.github.io/posts/post-3/</link>
       <pubDate>Sun, 18 Mar 2018 12:13:32 +0530</pubDate>
       
-      <guid>https://zyang.ca/posts/post-3/</guid>
+      <guid>https://yzwdroid.github.io/posts/post-3/</guid>
       <description>The art of letting go.</description>
     </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://zyang.ca/posts/post-2/</link>
+      <link>https://yzwdroid.github.io/posts/post-2/</link>
       <pubDate>Thu, 18 May 2017 12:13:30 +0530</pubDate>
       
-      <guid>https://zyang.ca/posts/post-2/</guid>
+      <guid>https://yzwdroid.github.io/posts/post-2/</guid>
       <description>Markdown Syntax Guide</description>
     </item>
     

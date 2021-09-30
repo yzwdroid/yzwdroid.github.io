@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://zyang.ca/sitemap.xml
+Sitemap: https://yzwdroid.github.io/sitemap.xml

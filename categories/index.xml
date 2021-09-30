@@ -2,47 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on yzwdroid</title>
-    <link>https://zyang.ca/categories/</link>
+    <link>https://yzwdroid.github.io/categories/</link>
     <description>Recent content in Categories on yzwdroid</description>
-    <image>
-      <url>https://zyang.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://zyang.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 18 Sep 2019 12:13:38 +0500</lastBuildDate><atom:link href="https://zyang.ca/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Sep 2019 12:13:38 +0500</lastBuildDate><atom:link href="https://yzwdroid.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Whisper</title>
-      <link>https://zyang.ca/categories/whisper/</link>
+      <link>https://yzwdroid.github.io/categories/whisper/</link>
       <pubDate>Wed, 18 Sep 2019 12:13:38 +0500</pubDate>
       
-      <guid>https://zyang.ca/categories/whisper/</guid>
+      <guid>https://yzwdroid.github.io/categories/whisper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shortcodes</title>
-      <link>https://zyang.ca/categories/shortcodes/</link>
+      <link>https://yzwdroid.github.io/categories/shortcodes/</link>
       <pubDate>Fri, 06 Sep 2019 12:13:36 +0530</pubDate>
       
-      <guid>https://zyang.ca/categories/shortcodes/</guid>
+      <guid>https://yzwdroid.github.io/categories/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Text</title>
-      <link>https://zyang.ca/categories/text/</link>
+      <link>https://yzwdroid.github.io/categories/text/</link>
       <pubDate>Sun, 18 Mar 2018 12:13:35 +0530</pubDate>
       
-      <guid>https://zyang.ca/categories/text/</guid>
+      <guid>https://yzwdroid.github.io/categories/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://zyang.ca/categories/hugo/</link>
+      <link>https://yzwdroid.github.io/categories/hugo/</link>
       <pubDate>Sun, 18 Mar 2018 12:13:32 +0530</pubDate>
       
-      <guid>https://zyang.ca/categories/hugo/</guid>
+      <guid>https://yzwdroid.github.io/categories/hugo/</guid>
       <description></description>
     </item>
     
