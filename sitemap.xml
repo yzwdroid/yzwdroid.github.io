@@ -1,115 +1,77 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/posts/hello-world/</loc>
+    <loc>https://zyang.ca/posts/hello-world/</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+  </url><url>
+    <loc>https://zyang.ca/posts/</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
+  </url><url>
+    <loc>https://zyang.ca/</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
+  </url><url>
+    <loc>https://zyang.ca/about/</loc>
     <lastmod>2020-09-22T10:37:58+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
+  </url><url>
+    <loc>https://zyang.ca/tags/first/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://zyang.ca/hello/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://zyang.ca/tags/</loc>
     <lastmod>2020-10-09T10:13:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/markdown/</loc>
+  </url><url>
+    <loc>https://zyang.ca/categories/</loc>
     <lastmod>2020-10-09T10:13:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+  </url><url>
+    <loc>https://zyang.ca/tags/markdown/</loc>
     <lastmod>2020-10-09T10:13:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/post-5/</loc>
+  </url><url>
+    <loc>https://zyang.ca/posts/post-5/</loc>
     <lastmod>2020-10-09T10:13:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/whisper/</loc>
+  </url><url>
+    <loc>https://zyang.ca/categories/whisper/</loc>
     <lastmod>2020-10-09T10:13:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/image/</loc>
+  </url><url>
+    <loc>https://zyang.ca/tags/image/</loc>
     <lastmod>2020-10-09T10:13:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/post-6/</loc>
+  </url><url>
+    <loc>https://zyang.ca/posts/post-6/</loc>
     <lastmod>2020-10-09T10:13:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/shortcodes/</loc>
+  </url><url>
+    <loc>https://zyang.ca/categories/shortcodes/</loc>
     <lastmod>2020-10-09T10:13:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/chinese/</loc>
+  </url><url>
+    <loc>https://zyang.ca/tags/chinese/</loc>
     <lastmod>2020-10-09T10:13:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/plain/</loc>
+  </url><url>
+    <loc>https://zyang.ca/tags/plain/</loc>
     <lastmod>2020-10-09T10:13:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/text/</loc>
+  </url><url>
+    <loc>https://zyang.ca/categories/text/</loc>
     <lastmod>2020-10-09T10:13:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/post-4/</loc>
+  </url><url>
+    <loc>https://zyang.ca/posts/post-4/</loc>
     <lastmod>2020-10-09T10:13:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/hugo/</loc>
+  </url><url>
+    <loc>https://zyang.ca/categories/hugo/</loc>
     <lastmod>2020-10-09T10:13:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/post-3/</loc>
+  </url><url>
+    <loc>https://zyang.ca/posts/post-3/</loc>
     <lastmod>2020-10-09T10:13:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mathjax/</loc>
+  </url><url>
+    <loc>https://zyang.ca/tags/mathjax/</loc>
     <lastmod>2020-10-09T10:13:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/test/</loc>
+  </url><url>
+    <loc>https://zyang.ca/tags/test/</loc>
     <lastmod>2020-10-09T10:13:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/post-2/</loc>
+  </url><url>
+    <loc>https://zyang.ca/posts/post-2/</loc>
     <lastmod>2020-10-09T10:13:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/post-1/</loc>
+  </url><url>
+    <loc>https://zyang.ca/posts/post-1/</loc>
     <lastmod>2017-01-18T00:00:00+00:00</lastmod>
   </url>
-  
 </urlset>

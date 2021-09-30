@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Whisper on My Blog</title>
-    <link>/categories/whisper/</link>
-    <description>Recent content in Whisper on My Blog</description>
+    <title>Whisper on yzwdroid</title>
+    <link>https://zyang.ca/categories/whisper/</link>
+    <description>Recent content in Whisper on yzwdroid</description>
+    <image>
+      <url>https://zyang.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://zyang.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 18 Sep 2019 12:13:38 +0500</lastBuildDate><atom:link href="/categories/whisper/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Sep 2019 12:13:38 +0500</lastBuildDate><atom:link href="https://zyang.ca/categories/whisper/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Typography</title>
-      <link>/posts/post-5/</link>
+      <link>https://zyang.ca/posts/post-5/</link>
       <pubDate>Wed, 18 Sep 2019 12:13:38 +0500</pubDate>
       
-      <guid>/posts/post-5/</guid>
+      <guid>https://zyang.ca/posts/post-5/</guid>
       <description>Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et expeditasi distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihilse impedit quo minus id quod amets untra dolor amet sad. Sed ut perspser iciatis unde omnis iste natus error sit voluptatem accusantium doloremque laste. Dolores sadips ipsums sits.
 Heading 1 Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et expeditasi distinctio.</description>
     </item>

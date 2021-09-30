@@ -1,63 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on My Blog</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on My Blog</description>
+    <title>Tags on yzwdroid</title>
+    <link>https://zyang.ca/tags/</link>
+    <description>Recent content in Tags on yzwdroid</description>
+    <image>
+      <url>https://zyang.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://zyang.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 18 Sep 2019 12:13:38 +0500</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://zyang.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>first</title>
+      <link>https://zyang.ca/tags/first/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://zyang.ca/tags/first/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Markdown</title>
-      <link>/tags/markdown/</link>
+      <link>https://zyang.ca/tags/markdown/</link>
       <pubDate>Wed, 18 Sep 2019 12:13:38 +0500</pubDate>
       
-      <guid>/tags/markdown/</guid>
+      <guid>https://zyang.ca/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>image</title>
-      <link>/tags/image/</link>
+      <link>https://zyang.ca/tags/image/</link>
       <pubDate>Fri, 06 Sep 2019 12:13:36 +0530</pubDate>
       
-      <guid>/tags/image/</guid>
+      <guid>https://zyang.ca/tags/image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>chinese</title>
-      <link>/tags/chinese/</link>
+      <link>https://zyang.ca/tags/chinese/</link>
       <pubDate>Sun, 18 Mar 2018 12:13:35 +0530</pubDate>
       
-      <guid>/tags/chinese/</guid>
+      <guid>https://zyang.ca/tags/chinese/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plain</title>
-      <link>/tags/plain/</link>
+      <link>https://zyang.ca/tags/plain/</link>
       <pubDate>Sun, 18 Mar 2018 12:13:35 +0530</pubDate>
       
-      <guid>/tags/plain/</guid>
+      <guid>https://zyang.ca/tags/plain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MathJax</title>
-      <link>/tags/mathjax/</link>
+      <link>https://zyang.ca/tags/mathjax/</link>
       <pubDate>Sun, 18 Mar 2018 12:13:32 +0530</pubDate>
       
-      <guid>/tags/mathjax/</guid>
+      <guid>https://zyang.ca/tags/mathjax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>test</title>
-      <link>/tags/test/</link>
+      <link>https://zyang.ca/tags/test/</link>
       <pubDate>Sun, 18 Mar 2018 12:13:32 +0530</pubDate>
       
-      <guid>/tags/test/</guid>
+      <guid>https://zyang.ca/tags/test/</guid>
       <description></description>
     </item>
     
