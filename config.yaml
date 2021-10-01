@@ -48,7 +48,7 @@ params:
         apple_touch_icon: "apple-touch-icon.png"
 
     label:
-        text: "Home"
+        text: "Andy"
         #icon: /gopher.png
         #iconHeight: 35
 
@@ -70,7 +70,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Hi there \U0001F44B"
-        Content: Welcome to my blog
+        Content: I'm Andy, a software engineer.
 
     socialIcons:
         - name: twitter
@@ -94,7 +94,7 @@ params:
         hiddenInSingle: true # hide on single page
 
     editPost:
-        URL: "https://github.com/<path_to_repo>/content"
+        URL: "https://github.com/yzwdroid/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
