@@ -74,9 +74,9 @@ params:
 
     socialIcons:
         - name: twitter
-          url: "https://twitter.com/sincepy"
+          url: "https://twitter.com/yzwdroid"
         - name: linkedin
-          url: "https://linkedin.com/yzwdroid"
+          url: "https://linkedin.com/in/yzwdroid"
         - name: github
           url: "https://github.com/yzwdroid"
 
