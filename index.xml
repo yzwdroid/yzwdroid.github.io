@@ -29,12 +29,12 @@ gofmt filenames Golint Linter is a tool that analyzes source code to flag progra
     </item>
     
     <item>
-      <title>hello title</title>
+      <title>Hello World</title>
       <link>https://yzwdroid.github.io/posts/hello-world/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yzwdroid.github.io/posts/hello-world/</guid>
-      <description>hello world fmt.Println(&amp;#34;hello, world&amp;#34;) </description>
+      <description>Hello world fmt.Println(&amp;#34;Hello, world&amp;#34;) </description>
     </item>
     
   </channel>
