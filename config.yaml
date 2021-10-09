@@ -16,8 +16,8 @@ minify:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: ExampleSite
-    description: "ExampleSite description"
+    title: zyang
+    description: ""
     keywords: [Blog, Portfolio, PaperMod]
     author: Andy
     # author: ["Me", "You"] # multiple authors
@@ -26,8 +26,8 @@ params:
     defaultTheme: auto # dark, light
     disableThemeToggle: false
 
-    ShowReadingTime: true
-    ShowShareButtons: true
+    ShowReadingTime: false
+    ShowShareButtons: false
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: false
