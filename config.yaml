@@ -111,10 +111,10 @@ params:
 menu:
     main:
         - name: Archive
-          url: archives
+          url: /archives/
           weight: 5
         - name: Search
-          url: search/
+          url: /search/
           weight: 10
         - identifier: tags
           name: tags
