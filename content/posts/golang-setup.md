@@ -1,6 +1,8 @@
  ---
 title: Go development with VSCode and vim 
 date: 2019-11-18
+tags: ["Go", "Vim"]
+ShowToc: true
 ---
 
 ## Gofmt

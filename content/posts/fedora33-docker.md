@@ -1,6 +1,8 @@
  ---
 title: Fedora 33 install Docker
 date: 2020-10-28
+tags: ["docker", "fedora"]
+ShowToc: true
 ---
 
 # Docker and Fedora 33

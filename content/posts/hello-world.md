@@ -1,11 +1,11 @@
  ---
-title: hello title
+title: Hello World
 date: 2019-10-1
 ---
 
-# hello world
+# Hello world
 
 ```go
-fmt.Println("hello, world")
+fmt.Println("Hello, world")
 ```
  
