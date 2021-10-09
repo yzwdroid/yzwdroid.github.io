@@ -110,6 +110,12 @@ params:
         keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 10
         - identifier: tags
           name: tags
           url: /tags/
