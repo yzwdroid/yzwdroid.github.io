@@ -115,7 +115,7 @@ menu:
           weight: 5
         - name: Search
           url: /search/
-          weight: 10
+          weight: 50
         - identifier: tags
           name: tags
           url: /tags/
