@@ -1,7 +1,7 @@
-# [This website](zyang.ca) is powered by hugo,github pages and github action.
+# [This website](http://zyang.ca) is powered by hugo,github pages and github action.
 
 ## Writing a post
-just add the post to the github repo, when github receive any commit, the github action will run automatively.
+Just add the post to the github repo, when github receive any commit, the github action will run automatively.
 All the generated contents will be added to the gh-pages branch.
 
 ## Add a domain name
