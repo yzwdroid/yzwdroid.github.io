@@ -32,9 +32,9 @@ jobs:
     - name: Build
       run: hugo --theme=PaperMod
 
-    # Step 5 - Create name file
-    # - name: Create cname file
-    #   run: echo 'zyang.ca' > public/CNAME
+     Step 5 - Create name file
+     - name: Create cname file
+       run: echo 'blog.tianfeng.ca' > public/CNAME
 
     # Step 6 - Push our generated site to our gh-pages branch
     - name: Deploy
