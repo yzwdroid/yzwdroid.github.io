@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Andy Yang</title>
-    <link>tianfeng.ca/tags/</link>
+    <link>https://yzwdroid.github.io/tags/</link>
     <description>Recent content in Tags on Andy Yang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="tianfeng.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yzwdroid.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>docker</title>
-      <link>tianfeng.ca/tags/docker/</link>
+      <link>https://yzwdroid.github.io/tags/docker/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>tianfeng.ca/tags/docker/</guid>
+      <guid>https://yzwdroid.github.io/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fedora</title>
-      <link>tianfeng.ca/tags/fedora/</link>
+      <link>https://yzwdroid.github.io/tags/fedora/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>tianfeng.ca/tags/fedora/</guid>
+      <guid>https://yzwdroid.github.io/tags/fedora/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>tianfeng.ca/tags/go/</link>
+      <link>https://yzwdroid.github.io/tags/go/</link>
       <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>tianfeng.ca/tags/go/</guid>
+      <guid>https://yzwdroid.github.io/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vim</title>
-      <link>tianfeng.ca/tags/vim/</link>
+      <link>https://yzwdroid.github.io/tags/vim/</link>
       <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>tianfeng.ca/tags/vim/</guid>
+      <guid>https://yzwdroid.github.io/tags/vim/</guid>
       <description></description>
     </item>
     

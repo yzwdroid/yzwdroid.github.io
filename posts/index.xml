@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Andy Yang</title>
-    <link>tianfeng.ca/posts/</link>
+    <link>https://yzwdroid.github.io/posts/</link>
     <description>Recent content in Posts on Andy Yang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="tianfeng.ca/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yzwdroid.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fedora 33 install Docker</title>
-      <link>tianfeng.ca/posts/fedora33-docker/</link>
+      <link>https://yzwdroid.github.io/posts/fedora33-docker/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>tianfeng.ca/posts/fedora33-docker/</guid>
+      <guid>https://yzwdroid.github.io/posts/fedora33-docker/</guid>
       <description>Docker and Fedora 33 With the release of Fedora 33, Docker is not supported by Fedora 33 officially. This article will help you install Docker on Fedora 33.
 Remove old version sudo dnf remove docker-* sudo dnf config-manager --disable docker-* Enable old CGroups Docker still not support CgroupsV2.
 sudo grubby --update-kernel=ALL --args=&amp;#34;systemd.unified_cgroup_hierarchy=0&amp;#34; Set up firewall sudo firewall-cmd --permanent --zone=trusted --add-interface=docker0 sudo firewall-cmd --permanent --zone=FedoraWorkstation --add-masquerade Install Moby Moby is the open-source version of Docker.</description>
@@ -20,10 +20,10 @@ sudo grubby --update-kernel=ALL --args=&amp;#34;systemd.unified_cgroup_hierarchy
     
     <item>
       <title>Go development with VSCode and vim</title>
-      <link>tianfeng.ca/posts/golang-setup/</link>
+      <link>https://yzwdroid.github.io/posts/golang-setup/</link>
       <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>tianfeng.ca/posts/golang-setup/</guid>
+      <guid>https://yzwdroid.github.io/posts/golang-setup/</guid>
       <description>Gofmt Go takes a strong stance on code formatting. The gofmt tool rewrites code into the standard format.
 gofmt filenames Golint Linter is a tool that analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs. Using Linter provides many benefits.
 Find bugs Speed up code review Manage code quality go get -u golang.org/x/lint/golint golint filenames VSCode setup Install the Go extension maintained by Go Team at Google(previously maintained by Microsoft).</description>
@@ -31,10 +31,10 @@ Find bugs Speed up code review Manage code quality go get -u golang.org/x/lint/g
     
     <item>
       <title>Hello World</title>
-      <link>tianfeng.ca/posts/hello-world/</link>
+      <link>https://yzwdroid.github.io/posts/hello-world/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>tianfeng.ca/posts/hello-world/</guid>
+      <guid>https://yzwdroid.github.io/posts/hello-world/</guid>
       <description>Hello world fmt.Println(&amp;#34;Hello, world&amp;#34;) </description>
     </item>
     
