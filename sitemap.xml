@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yzwdroid.github.io/</loc>
+    <loc>tianfeng.ca/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yzwdroid.github.io/tags/docker/</loc>
+    <loc>tianfeng.ca/tags/docker/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yzwdroid.github.io/tags/fedora/</loc>
+    <loc>tianfeng.ca/tags/fedora/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yzwdroid.github.io/posts/fedora33-docker/</loc>
+    <loc>tianfeng.ca/posts/fedora33-docker/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yzwdroid.github.io/posts/</loc>
+    <loc>tianfeng.ca/posts/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yzwdroid.github.io/tags/</loc>
+    <loc>tianfeng.ca/tags/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yzwdroid.github.io/tags/go/</loc>
+    <loc>tianfeng.ca/tags/go/</loc>
     <lastmod>2019-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yzwdroid.github.io/posts/golang-setup/</loc>
+    <loc>tianfeng.ca/posts/golang-setup/</loc>
     <lastmod>2019-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yzwdroid.github.io/tags/vim/</loc>
+    <loc>tianfeng.ca/tags/vim/</loc>
     <lastmod>2019-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yzwdroid.github.io/archives/</loc>
+    <loc>tianfeng.ca/archives/</loc>
   </url><url>
-    <loc>https://yzwdroid.github.io/categories/</loc>
+    <loc>tianfeng.ca/categories/</loc>
   </url><url>
-    <loc>https://yzwdroid.github.io/posts/hello-world/</loc>
+    <loc>tianfeng.ca/posts/hello-world/</loc>
   </url><url>
-    <loc>https://yzwdroid.github.io/search/</loc>
+    <loc>tianfeng.ca/search/</loc>
   </url>
 </urlset>
