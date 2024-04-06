@@ -117,6 +117,9 @@ menu:
           name: tags
           url: /tags/
           weight: 20
+        - name: Resume
+          url: /resume.pdf
+          weight: 30
         - name: Search
           url: /search/
           weight: 50
